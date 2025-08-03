@@ -40,7 +40,7 @@ public class BasicApp
                     flag = true;
                     break;
             }
-        }while (flag) ;
+        }while (flag) ; //test
 
 
         int hours, avghours=0, totalhours=0;
